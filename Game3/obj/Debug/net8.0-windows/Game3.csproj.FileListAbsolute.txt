@@ -1,0 +1,17 @@
+C:\Source\Game3\Game3\bin\Debug\net8.0-windows\Game3.exe
+C:\Source\Game3\Game3\bin\Debug\net8.0-windows\Game3.deps.json
+C:\Source\Game3\Game3\bin\Debug\net8.0-windows\Game3.runtimeconfig.json
+C:\Source\Game3\Game3\bin\Debug\net8.0-windows\Game3.dll
+C:\Source\Game3\Game3\bin\Debug\net8.0-windows\Game3.pdb
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.Form1.resources
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.csproj.GenerateResource.cache
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.AssemblyInfoInputs.cache
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.AssemblyInfo.cs
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.csproj.CoreCompileInputs.cache
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.sourcelink.json
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.dll
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\refint\Game3.dll
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.pdb
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\Game3.genruntimeconfig.cache
+C:\Source\Game3\Game3\obj\Debug\net8.0-windows\ref\Game3.dll
